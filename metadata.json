@@ -1,0 +1,5 @@
+
+{
+  "name": "TaskMaster Pro",
+  "description": "A sleek and efficient task management application built with React and Tailwind CSS, allowing users to create, manage, and track their tasks with due dates and status updates, including a calendar view. Note: User authentication is mocked and task data is stored in localStorage."
+}
